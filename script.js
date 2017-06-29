@@ -1,4 +1,5 @@
 alert("Hello player! Ready for the game? Then go ahead!")
+
 let i = 0;
 
 outer: while(i< 10) { 
