@@ -1,4 +1,4 @@
-alert("Hello player!")
+alert("Hello player! Ready for the game?")
 let i = 0;
 
 outer: while(i< 10) { 
